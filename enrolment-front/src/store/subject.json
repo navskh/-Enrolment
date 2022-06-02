@@ -1,0 +1,76 @@
+{
+    "subject" : [
+        {
+            "lec_id": 100,
+            "lec_name": "DataBase기초",
+            "grade":1,
+            "credit":3,
+            "personnelCnt":30,
+            "applicant":0,
+            "lec_day":"월",
+            "lec_time": "14:00-16:00"
+        },
+        {
+            "lec_id": 200,
+            "lec_name": "컴퓨터기초",
+            "grade":2,
+            "credit":3,
+            "personnelCnt":20,
+            "applicant":0,
+            "lec_day":"화",
+            "lec_time": "14:00-16:00"
+        },
+        {
+            "lec_id": 300,
+            "lec_name": "컴퓨팅사고",
+            "grade":1,
+            "credit":3,
+            "personnelCnt":30,
+            "applicant":0,
+            "lec_day":"수",
+            "lec_time": "14:00-16:00"
+        },
+        {
+            "lec_id": 400,
+            "lec_name": "프로그래밍언어(1)",
+            "grade":3,
+            "credit":3,
+            "personnelCnt":30,
+            "applicant":0,
+            "lec_day":"목",
+            "lec_time": "14:00-16:00"
+        },
+        {
+            "lec_id": 500,
+            "lec_name": "고급 프로그래밍언어",
+            "grade":1,
+            "credit":3,
+            "personnelCnt":30,
+            "applicant":0,
+            "lec_day":"금",
+            "lec_time": "14:00-16:00"
+        },
+        {
+            "lec_id": 600,
+            "lec_name": "모바일앱개발",
+            "grade":2,
+            "credit":4,
+            "personnelCnt":30,
+            "applicant":0,
+            "lec_day":"월",
+            "lec_time": "14:00-16:00"
+        },
+        {
+            "lec_id": 700,
+            "lec_name": "웹개발",
+            "grade":3,
+            "credit":2,
+            "personnelCnt":30,
+            "applicant":0,
+            "lec_day":"목",
+            "lec_time": "10:00-12:00"
+        }
+    ]
+}
+
+
