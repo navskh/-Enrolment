@@ -50,7 +50,7 @@ export default {
   name: "Login",
   data() {
     return {
-      user_id: "navskh",
+      user_id: "test",
       user_pw: "1234",
     };
   },

@@ -6,7 +6,7 @@ Vue.use(Vuex);
 const store1 = new Vuex.Store({
   state: {
     message: "Hello",
-    userid: "navskh",
+    userid: "test",
   },
   mutations: {
     changeMessage(state, newMsg) {
